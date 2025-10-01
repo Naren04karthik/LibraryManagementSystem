@@ -38,4 +38,3 @@ The **Library Management System** is a console-based application developed in **
 
 ---
 
-## Folder Structure
